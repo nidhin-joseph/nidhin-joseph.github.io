@@ -41,6 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
+    - title: instagram
+    url: http://instagram.com/nidhin-joseph
   - title: facebook
     url:
   - title: stack-overflow
